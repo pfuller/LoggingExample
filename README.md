@@ -1,0 +1,2 @@
+# LoggingExample
+Lightweight Logging Framework
